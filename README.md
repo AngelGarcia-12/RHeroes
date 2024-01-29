@@ -1,6 +1,6 @@
 # Heroes-app
 
-Pagina web realizada con el framework React + Vite.
+Pagina web realizada con el framework **React + Vite**.
 La pagina consiste en buscar algun heroe de los registrados localmente.
 
 Aqui podemos ver que podemos hacer login.
